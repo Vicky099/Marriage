@@ -1,21 +1,21 @@
 @font-face {
   font-family: Ballegra;
-  src: url(Ballegra.ttf);
+  src: url(/assets/Ballegra.ttf);
   font-weight: bold;
 }
 @font-face {
   font-family: Montserrat-Bold;
-  src: url(Montserrat-Bold.ttf);
+  src: url(/assets/Montserrat-Bold.ttf);
   font-weight: bold;
 }
 @font-face {
   font-family: Montserrat-Medium;
-  src: url(Montserrat-Medium.ttf);
+  src: url(/assets/Montserrat-Medium.ttf);
   font-weight: bold;
 }
 @font-face {
   font-family: Montserrat-Regular;
-  src: url(Montserrat-Regular.ttf);
+  src: url(/assets/Montserrat-Regular.ttf);
   font-weight: bold;
 }
 body{
@@ -27,7 +27,7 @@ body{
   color: #7B7565;
 }
 .section-1{
-  background-image: url('Section1_img.png');
+  background-image: url('/assets/Section1_img.png');
   height: 100vh;
   background-position: center;
 }
@@ -59,7 +59,7 @@ body{
   letter-spacing: 2px;
 }
 .section-2{
-  background-image: url(Section2_img.png);
+  background-image: url(/assets/Section2_img.png);
   min-height: 100vh;
   background-position-x: center;
   background-position: top;
@@ -84,7 +84,7 @@ body{
 }
 .section-3{
   text-align: center;
-  background-image: url('pattern1_img.svg');
+  background-image: url('/assets/pattern1_img.svg');
   background-repeat: repeat-x;
   background-position: top;
   padding-top: 45px;
