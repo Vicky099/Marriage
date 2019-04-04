@@ -185,5 +185,10 @@ body{
   .contact-details .contact{
     display: block
   }
+
+  .video{
+    height: 200px;
+    width: 300px;
+  }
 }
 
